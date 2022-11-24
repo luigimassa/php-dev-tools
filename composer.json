@@ -5,7 +5,7 @@
   "require": {
     "php": ">=7.2.5",
     "symfony/console": "~3.2 || ~4.0 || ~5.0 || ~6.0",
-    "friendsofphp/php-cs-fixer": "^3.2",
+    "friendsofphp/php-cs-fixer": "^3.13.0",
     "squizlabs/php_codesniffer": "^3.4",
     "symfony/filesystem": "~3.2 || ~4.0 || ~5.0 || ~6.0",
     "prestashop/header-stamp": "^2.0",
