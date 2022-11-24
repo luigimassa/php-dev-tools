@@ -1,5 +1,5 @@
 {
-  "name": "prestashop/php-dev-tools",
+  "name": "bwlab/php-dev-tools",
   "description": "PrestaShop coding standards",
   "license": "MIT",
   "require": {
